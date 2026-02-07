@@ -55,10 +55,10 @@ project-root/
 
 ## 📸 Screenshots
 
-```md
-![Desktop View](screenshots/resume-desktop.png)
 
-```
+![Desktop View](/screenshots/resume-desktop.png)
+
+
 
 ---
 
